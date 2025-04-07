@@ -1,0 +1,12 @@
+{
+    "name": "flower-location-tracker",
+    "version": "1.0.0",
+    "description": "Track and save user location every second",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.4"
+    }
+}
